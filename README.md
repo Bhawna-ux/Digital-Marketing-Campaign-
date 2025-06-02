@@ -14,7 +14,7 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
 * **Click to Open Rate**: The percentage of people who opened an email and also clicked on a link within it.
 ### Visual Insights 📊
 1. **Engagement Metrics**
-   <br>**Do More Social Shares Lead to Higher Conversion Rates?** <br>
+   <br>**Do More Social Shares Lead to Higher Conversion Rates?** <br> <br>
    ![image](https://github.com/user-attachments/assets/edca58ca-d198-46d1-8d09-9f81a9e2a49e)  ![image](https://github.com/user-attachments/assets/e98adc99-bf6e-4787-891a-7b052dace490)
 
 
