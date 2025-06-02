@@ -5,13 +5,13 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
 * How do Click-Through Rates and Conversion Rates varry across different campaign channels? <br>
 * Do more Social Shares leads to higher Conversion Rate? <br>
 * Which age-group shows the highest engagement and loyalty?
-### Insights Summary 📌
+### Key Metrics 📌
 **In order to evaluate campaign performance, we focused on the following metrics:** <br>
-* **Click through Rate**: The percent of people who see a campaign and clicks on the associated link. <br>
-* **Conversion Rate**: The percent of people who perform a desired action e.g. buying a product. <br>
-* **Cost per Acquisition**: Total cost of acquiring each new customer.<br>
+* **Click through Rate (CTR)**: The percent of people who see a campaign and clicks on the associated link. <br>
+* **Conversion Rate (CR)**: The percent of people who perform a desired action e.g. buying a product. <br>
+* **Cost per Acquisition (CPA)**: Total cost of acquiring each new customer.<br>
 * **Average Time on Site**: Average time spend by customer on website. <br>
-* **Click to Open Rate**: The percentage of people who opened an email and also clicked on a link within it.
+* **Click to Open Rate (CTOR)**: The percentage of people who opened an email and also clicked on a link within it.
 ### Visual Insights 📊
 1. **Engagement Metrics**
    <br>**Do More Social Shares Lead to Higher Conversion Rates?** <br> <br>
@@ -25,19 +25,25 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
    <br>
    * The Pre-Retirement (55–64) and Mid Career (35–44) segments offer the highest conversion rates (10.70% and 10.52%) with the lowest CPA ($5.6K). <br> 
    * The Early Professional have lowest conversion rate (10.23%) with highest Cost per Acquisition ($5.9K). <br>
-   <br> **What’s the Cost per Acquisition by campaign type and how can it be optimized?** <br> 
-   
+   **What’s the Cost per Acquisition by campaign type and how can it be optimized?**
+   <br>
+   ![image](https://github.com/user-attachments/assets/b2896266-645e-4510-8d3e-f6b6044e42db)
+
+   <br>
+   * All channels are relatively close in cost (within about $200 difference), suggesting no extreme outliers but still offering room for cost optimization. <br>
+   * PPC (Pay-Per-Click) has the lowest cost per acquisition at $5,612.07 and highest CTR (15.83%), making it the most cost-effective channel among the five. <br>
+   * Email marketing has the highest cost per acquisition, at $5,809.28, indicating it is the least cost-efficient channel in this comparison.
 3. **Campaign Performance Analysis**
    <br> **How does ad spend relate to conversion rate or click-through rate across channels?** OR 
    <br> **Which campaign channel (Email, PPC, Social Media) has the highest conversion rate?**
    ![image](https://github.com/user-attachments/assets/410f731b-8591-4836-8a72-78bbe70869a5)
    <br>
    * PPC has the highest CTR (15.83%) indicating it attracts the most clicks - possibly due to visibilty or targeting. However, its conversion rate is only 10.41%. <br>
-   * Social Media is the top performer in Conversion Rate (10.66%), suggesting it is more effective at converting traffic into customers, even with lower CTR than PPC. <br>
-   * Email Campaigns perform consistently well, ranking second-highest in both CTR and CR. This makes it a reliable and balanced channel. <br>
-   * SEO and Referral have the lowest CTR and CR, suggesting lower performance overall, but still very close in percentage—marginal difference.
+   * Email and Social Media channels drive good engagement ($5,809.28 and $5,718.21), but at a higher cost (15.56% and 15.55%), indicating room for optimization. <br>
+   * Refferal is not strong in either market, making it a lower performing channel. <br>
+   * SEO indicates relatively poor engagement (CPA $5,696.03, CR 15.32%)
  
-5. **Age-Based Analysis**
+4. **Age-Based Analysis**
    <br> **Which age groups have the highest loyalty and purchase history, and how should loyalty programs be targeted?** <br> <br>
    ![image](https://github.com/user-attachments/assets/30708f73-10fc-4979-a3c6-b176b0b43e06)
 
@@ -52,8 +58,15 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
    * A stable customer segment worth nurturing.
    (iv) 18–24 & 65+:
    * Lower purchase and loyalty levels.
-   * Use targeted acquisition strategies or lighter loyalty efforts here.  
-6. **Time Engagement**
+   * Use targeted acquisition strategies or lighter loyalty efforts here.
+   <br> **Which age group shows the best conversion efficiency relative to their click-through rate?** OR <br>
+   **Are younger users (18–34) engaging without converting? Should messaging be adjusted for this demographic?** <br>
+   ![image](https://github.com/user-attachments/assets/4cbb6d7a-28f0-4299-9426-e7bc5f3e46d7)
+   <br>
+   * Although early professionals consists high CTR (15.41%) but they have low Conversion Rate (10.23%). <br>
+   * On the other hand, Pre-Retirement age group performs best in terms of both CTR (15.30%) and CR (10.70%).
+
+5. **Time Engagement**
    <br> **Which age groups spend the most time on site, and how might that relate to conversion potential?** <br>
    ![image](https://github.com/user-attachments/assets/14d43d3f-8b0e-4a62-8b80-5aac41c9b318)
    <br>
@@ -68,9 +81,10 @@ Their lower time on site suggests reduced interest or poor experience. <br>
 Consider UX improvements, relevance of messaging, or content changes.
 <br> 3. 📉 Reevaluate spending on 25–34: <br>
 Despite decent engagement, it has the lowest conversion and highest CPA. Also, has lower purchase and loyalty levels.
-### Recommendations
+### Recommendations ✅
 * Double down on Social Media: It brings in solid traffic and converts the best. Consider scaling content and ad spend here. <br>
 * While PPC has the highest CTR, the conversion rate doesn’t match — review landing pages, audience targeting, or ad messaging. <br>
+* Improve SEO Engagement. Enhance content quality, keyword targeting, and descriptions to boost visibility and clicks. <br>
 * Shift targeting and budget toward high-converting age segments (especially 55–64 and 35–44) to improve ROI. <br>
 * Consider custom messaging or creative testing for younger segments to raise conversion without increasing CPA. <br>
 * Use targeted acquisition strategies or lighter loyalty efforts for 18-24.
