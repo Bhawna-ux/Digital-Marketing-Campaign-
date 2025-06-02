@@ -16,8 +16,6 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
 1. **Engagement Metrics**
    <br>**Do More Social Shares Lead to Higher Conversion Rates?** <br> <br>
    ![image](https://github.com/user-attachments/assets/edca58ca-d198-46d1-8d09-9f81a9e2a49e)  ![image](https://github.com/user-attachments/assets/e98adc99-bf6e-4787-891a-7b052dace490)
-
-
    <br> More social shares leads to do not necessarily lead to higher conversion rates. Social shares have little to no measurable effect on conversion rate across all campaign channels.
 
 2. **Cost Efficiency**
@@ -26,16 +24,13 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
 
    <br> * The Pre-Retirement (55–64) and Mid Career (35–44) segments offer the highest conversion rates (10.70% and 10.52%) with the lowest CPA ($5.6K).
    <br> * The Early Professional have lowest conversion rate (10.23%) with highest Cost per Acquisition ($5.9K). <br>
-   <br>**What’s the Cost per Acquisition by campaign type and how can it be optimized?** <br>
-   
+   <br>**What’s the Cost per Acquisition by campaign type and how can it be optimized?** <br> 
    
 4. **Campaign Performance Comparison**
-   
-
 5. **Age-Based Analysis**
 6. **Time Engagement**
    <br> **Which age groups spend the most time on site, and how might that relate to conversion potential?** <br>
-   ![image](https://github.com/user-attachments/assets/030b14c7-b38a-4c6a-a6ec-7bcfcfd7d67c)
+   ![image](https://github.com/user-attachments/assets/a4bad975-b4b7-4d9f-be8e-318021ddbb05)
    <br> * Mid Career (35–44) and Experienced Professionals (45–54) spend the most time on site (12.4K and 12.1K seconds respectively), suggesting high engagement. <br>
    * Young Adults (18–24) and Retired individuals spend the least time (8K and 5.8K), indicating lower engagement or quicker exits.
 ### Insights
@@ -47,10 +42,9 @@ Consider UX improvements, relevance of messaging, or content changes.
 <br> 📉 Reevaluate spending on 25–34: <br>
 Despite decent engagement, it has the lowest conversion and highest CPA.
 ### Recommendations
-* Shift targeting and budget toward high-converting age segments (especially 55–64 and 35–44) to improve ROI.
-* Consider custom messaging or creative testing for younger segments to raise conversion without increasing CPA.
-   
-
+* Shift targeting and budget toward high-converting age segments (especially 55–64 and 35–44) to improve ROI. <br>
+* Consider custom messaging or creative testing for younger segments to raise conversion without increasing CPA. <br>
+* Improve site experience or content relevance for low-engagement groups like 18–24 or 65+ to boost performance.
 ### Dataset 📂
 The dataset includes anonymized customer data with features like:<br>
 * Demographics (Age, Gender, Income)
