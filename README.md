@@ -28,7 +28,7 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
    <br> **What’s the Cost per Acquisition by campaign type and how can it be optimized?** <br> 
    
 3. **Campaign Performance Analysis**
-   <br> **How does ad spend relate to conversion rate or click-through rate across channels?**
+   <br> **How does ad spend relate to conversion rate or click-through rate across channels?** OR 
    <br> **Which campaign channel (Email, PPC, Social Media) has the highest conversion rate?**
    ![image](https://github.com/user-attachments/assets/410f731b-8591-4836-8a72-78bbe70869a5)
    <br>
@@ -55,7 +55,7 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
    * Use targeted acquisition strategies or lighter loyalty efforts here.  
 6. **Time Engagement**
    <br> **Which age groups spend the most time on site, and how might that relate to conversion potential?** <br>
-   ![image](https://github.com/user-attachments/assets/a4bad975-b4b7-4d9f-be8e-318021ddbb05)
+   ![image](https://github.com/user-attachments/assets/14d43d3f-8b0e-4a62-8b80-5aac41c9b318)
    <br>
    * Mid Career (35–44) and Experienced Professionals (45–54) spend the most time on site (12.4K and 12.1K seconds respectively), suggesting high engagement. <br>
    * Young Adults (18–24) and Retired individuals spend the least time (8K and 5.8K), indicating lower engagement or quicker exits.
