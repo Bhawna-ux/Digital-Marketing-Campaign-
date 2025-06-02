@@ -33,7 +33,19 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
    
 
 5. **Age-Based Analysis**
-   
+6. **Time Engagement**
+   <br> **Which age groups spend the most time on site, and how might that relate to conversion potential?** <br>
+   ![image](https://github.com/user-attachments/assets/030b14c7-b38a-4c6a-a6ec-7bcfcfd7d67c)
+   <br> * Mid Career (35–44) and Experienced Professionals (45–54) spend the most time on site (12.4K and 12.1K seconds respectively), suggesting high engagement. <br>
+   * Young Adults (18–24) and Retired individuals spend the least time (8K and 5.8K), indicating lower engagement or quicker exits.
+### Insights
+<br> 🎯 Focus investment on age groups 35–44 and 55–64: <br>
+They offer high conversion, low CPA, and strong engagement. 
+<br> 🧪 Test and refine approach for 18–24 and 65+: <br>
+Their lower time on site suggests reduced interest or poor experience. <br>
+Consider UX improvements, relevance of messaging, or content changes.
+<br> 📉 Reevaluate spending on 25–34: <br>
+Despite decent engagement, it has the lowest conversion and highest CPA.
 ### Recommendations
 * Shift targeting and budget toward high-converting age segments (especially 55–64 and 35–44) to improve ROI.
 * Consider custom messaging or creative testing for younger segments to raise conversion without increasing CPA.
