@@ -23,8 +23,7 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
    ![image](https://github.com/user-attachments/assets/d62eeee1-7cb5-476c-a00c-537ef17b940d)
 
    <br>
-   * The Pre-Retirement (55–64) and Mid Career (35–44) segments offer the highest conversion rates (10.70% and 10.52%) with the lowest CPA ($5.6K).
-   <br> 
+   * The Pre-Retirement (55–64) and Mid Career (35–44) segments offer the highest conversion rates (10.70% and 10.52%) with the lowest CPA ($5.6K). <br> 
    * The Early Professional have lowest conversion rate (10.23%) with highest Cost per Acquisition ($5.9K). <br>
    <br> **What’s the Cost per Acquisition by campaign type and how can it be optimized?** <br> 
    
