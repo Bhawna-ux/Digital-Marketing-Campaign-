@@ -14,14 +14,14 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
 * **Click to Open Rate**: The percentage of people who opened an email and also clicked on a link within it.
 ### Visual Insights 📊
 1. **Engagement Metrics**
-   **Do More Social Shares Lead to Higher Conversion Rates?** <br>
+   <br>**Do More Social Shares Lead to Higher Conversion Rates?** <br>
    ![image](https://github.com/user-attachments/assets/edca58ca-d198-46d1-8d09-9f81a9e2a49e)
    <br> More social shares leads to do not necessarilylead to higher conversion rates.
 
 3. **Campaign Performance Comparison**
-   **What’s the Cost per Acquisition by campaign type and how can it be optimized?**
+   <br>**What’s the Cost per Acquisition by campaign type and how can it be optimized?** <br>
    
-   **What’s the Cost per Acquisition by age group and how can it be optimized?**
+   <br>**What’s the Cost per Acquisition by age group and how can it be optimized?** <br>
    
 
 ### Dataset 📂
