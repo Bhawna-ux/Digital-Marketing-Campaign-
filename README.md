@@ -5,6 +5,10 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
 * How do Click-Through Rates and Conversion Rates varry across different campaign channels? <br>
 * Do more Social Shares leads to higher Conversion Rate? <br>
 * Which age-group shows the highest engagement and loyalty?
+This analysis provides a data-driven understanding of how users interact with different digital campaigns. It highlights:
+* Which channels and age groups are most cost-effective.
+* How engagement metrics like social shares and time on site relate to conversions.
+* Where marketing efforts can be optimized for better ROI.
 ### Key Metrics 📌
 **In order to evaluate campaign performance, we focused on the following metrics:** <br>
 * **Click through Rate (CTR)**: The percent of people who see a campaign and clicks on the associated link. <br>
