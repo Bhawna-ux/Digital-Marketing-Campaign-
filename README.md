@@ -15,8 +15,10 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
 ### Visual Insights 📊
 1. **Engagement Metrics**
    <br>**Do More Social Shares Lead to Higher Conversion Rates?** <br>
-   ![image](https://github.com/user-attachments/assets/edca58ca-d198-46d1-8d09-9f81a9e2a49e)
-   <br> More social shares leads to do not necessarily lead to higher conversion rates.
+   ![image](https://github.com/user-attachments/assets/edca58ca-d198-46d1-8d09-9f81a9e2a49e)  ![image](https://github.com/user-attachments/assets/e98adc99-bf6e-4787-891a-7b052dace490)
+
+
+   <br> More social shares leads to do not necessarily lead to higher conversion rates. Social shares have little to no measurable effect on conversion rate across all campaign channels.
 
 3. **Campaign Performance Comparison**
    <br>**What’s the Cost per Acquisition by campaign type and how can it be optimized?** <br>
