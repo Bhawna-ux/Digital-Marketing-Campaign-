@@ -27,8 +27,32 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
    * The Early Professional have lowest conversion rate (10.23%) with highest Cost per Acquisition ($5.9K). <br>
    <br> **What’s the Cost per Acquisition by campaign type and how can it be optimized?** <br> 
    
-4. **Campaign Performance Comparison**
+3. **Campaign Performance Analysis**
+   <br> **How does ad spend relate to conversion rate or click-through rate across channels?**
+   <br> **Which campaign channel (Email, PPC, Social Media) has the highest conversion rate?**
+   ![image](https://github.com/user-attachments/assets/410f731b-8591-4836-8a72-78bbe70869a5)
+   <br>
+   * PPC has the highest CTR (15.83%) indicating it attracts the most clicks - possibly due to visibilty or targeting. However, its conversion rate is only 10.41%. <br>
+   * Social Media is the top performer in Conversion Rate (10.66%), suggesting it is more effective at converting traffic into customers, even with lower CTR than PPC. <br>
+   * Email Campaigns perform consistently well, ranking second-highest in both CTR and CR. This makes it a reliable and balanced channel. <br>
+   * SEO and Referral have the lowest CTR and CR, suggesting lower performance overall, but still very close in percentage—marginal difference.
+ 
 5. **Age-Based Analysis**
+   <br> **Which age groups have the highest loyalty and purchase history, and how should loyalty programs be targeted?** <br> <br>
+   ![image](https://github.com/user-attachments/assets/30708f73-10fc-4979-a3c6-b176b0b43e06)
+
+   (i) Mid Career (35–44):
+   * High loyalty and purchase behavior.
+   * Best group for loyalty incentives, referrals, or early-access offers.
+   (ii) 45–54 & 25–34:
+   * High purchase history, but relatively less loyalty point accumulation.
+   * Consider promotional nudges or personalized loyalty campaigns to build stickiness.
+   (iii) 55–64:
+   * Well-balanced in both dimensions.
+   * A stable customer segment worth nurturing.
+   (iv) 18–24 & 65+:
+   * Lower purchase and loyalty levels.
+   * Use targeted acquisition strategies or lighter loyalty efforts here.  
 6. **Time Engagement**
    <br> **Which age groups spend the most time on site, and how might that relate to conversion potential?** <br>
    ![image](https://github.com/user-attachments/assets/a4bad975-b4b7-4d9f-be8e-318021ddbb05)
@@ -37,16 +61,19 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
    * Young Adults (18–24) and Retired individuals spend the least time (8K and 5.8K), indicating lower engagement or quicker exits.
 ### Insights
 <br> 1. 🎯 Focus investment on age groups 35–44 and 55–64: <br>
-They offer high conversion, low CPA, and strong engagement. 
+They offer high conversion, low CPA, and strong engagement. <br>
+Mid Career (35–44) has high loyalty and purchase behavior.
 <br> 2. 🧪 Test and refine approach for 18–24 and 65+: <br>
 Their lower time on site suggests reduced interest or poor experience. <br>
 Consider UX improvements, relevance of messaging, or content changes.
 <br> 3. 📉 Reevaluate spending on 25–34: <br>
-Despite decent engagement, it has the lowest conversion and highest CPA.
+Despite decent engagement, it has the lowest conversion and highest CPA. Also, has lower purchase and loyalty levels.
 ### Recommendations
+* Double down on Social Media: It brings in solid traffic and converts the best. Consider scaling content and ad spend here. <br>
+* While PPC has the highest CTR, the conversion rate doesn’t match — review landing pages, audience targeting, or ad messaging. <br>
 * Shift targeting and budget toward high-converting age segments (especially 55–64 and 35–44) to improve ROI. <br>
 * Consider custom messaging or creative testing for younger segments to raise conversion without increasing CPA. <br>
-* Improve site experience or content relevance for low-engagement groups like 18–24 or 65+ to boost performance.
+* Use targeted acquisition strategies or lighter loyalty efforts for 18-24.
 ### Dataset 📂
 The dataset includes anonymized customer data with features like:<br>
 * Demographics (Age, Gender, Income)
