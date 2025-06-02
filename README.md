@@ -20,10 +20,23 @@ Using Poer Bi, I created interactive visualizations to answer critical question 
 
    <br> More social shares leads to do not necessarily lead to higher conversion rates. Social shares have little to no measurable effect on conversion rate across all campaign channels.
 
-3. **Campaign Performance Comparison**
+2. **Cost Efficiency**
+   <br>**What’s the Cost per Acquisition by age group and how can it be optimized?** <br> <br>
+   ![image](https://github.com/user-attachments/assets/d62eeee1-7cb5-476c-a00c-537ef17b940d)
+
+   <br> * The Pre-Retirement (55–64) and Mid Career (35–44) segments offer the highest conversion rates (10.70% and 10.52%) with the lowest CPA ($5.6K).
+   <br> * The Early Professional have lowest conversion rate (10.23%) with highest Cost per Acquisition ($5.9K). <br>
    <br>**What’s the Cost per Acquisition by campaign type and how can it be optimized?** <br>
    
-   <br>**What’s the Cost per Acquisition by age group and how can it be optimized?** <br>
+   
+4. **Campaign Performance Comparison**
+   
+
+5. **Age-Based Analysis**
+   
+### Recommendations
+* Shift targeting and budget toward high-converting age segments (especially 55–64 and 35–44) to improve ROI.
+* Consider custom messaging or creative testing for younger segments to raise conversion without increasing CPA.
    
 
 ### Dataset 📂
