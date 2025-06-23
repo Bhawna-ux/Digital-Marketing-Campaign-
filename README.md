@@ -1,7 +1,7 @@
 # Digital-Marketing-Campaign
 ### Project Overview 📝
 This project analyzes the effectiveness of various digital marketing campaigns using customer-level data. The goal is to uncover insights about campaign performance, customer behavior, and engagement metrics to help optimize marketing strategies.<br>
-Using Poer Bi, I created interactive visualizations to answer critical question such as: <br>
+Using Power Bi, I created interactive visualizations to answer critical question such as: <br>
 * How do Click-Through Rates and Conversion Rates varry across different campaign channels? <br>
 * Do more Social Shares leads to higher Conversion Rate? <br>
 * Which age-group shows the highest engagement and loyalty?
